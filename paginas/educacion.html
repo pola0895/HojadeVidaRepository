@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educación Paola Fonseca</title>
+</head>
+<body>
+   <header>
+        <svg width="250" height="150" viewbox="0 0 550 200">
+            <image width="2600" height="3500" xlink:href="LogoPao.svg"></image>
+        </svg>
+    </header> 
+    <h1>Hoja de vida Paola Fonseca</h1>
+    <h2>Nombre: Paola Andrea del Pilar </h2>
+    <h2>Apellidos: Fonseca Florez</h2>
+    <h3>Lugar de nacimiento: Bogotá</h3>
+    <h3>Fecha: 29/05/2019</h3>
+
+    <ul>
+        <li><a href="../index.html">Inicio</a></li>
+        <li><a href="educacion.html">Educación</a></li>
+        <li><a href="experiencia.html">Experiencia</a></li>
+    </ul>
+    <h2>Educación</h2>
+    
+    <table  border="1" cellpading="20" cellspacing="5">
+        <thead>
+            <tr>
+                <th>Año</th>
+                <th>Institución</th>
+                <th>Lugar</th>
+                <th>Culminado</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2002 a 2005</td>
+                <td>Gimnasio Psicopedagógico Villas del Madrigal</td>
+                <td>Bogotá</td>
+                <td>Primaria - si</td>
+            </tr>
+             <tr>
+                <td>2006 a 2012</td>
+                <td>Gimnasio El Lago</td>
+                <td>Bogota</td>
+                <td>Bachillerato - si</td>
+            </tr>
+             <tr>
+                <td>2013 a 2017</td>
+                <td>Corporación tecnológica industrial colombiana</td>
+                <td>Bogotá</td>
+                <td> Ingenieria Mecatronica - si</td>
+            </tr>
+
+        </tbody>
+    </table>
+
+    <h2>Agregar estudios</h2>
+    <form name="agregar estudios">
+        <fieldset>Estudios
+            <label for="ano">Año</label>
+            <br>
+            <select name="ano" id="ano" required>
+                <option value="0"></option>
+                <option value="1">2000</option>
+                <option value="2">2001</option>
+                <option value="3">2002</option>
+                <option value="4">2003</option>
+                <option value="5">2004</option>
+                <option value="6">2005</option>
+                <option value="7">2006</option>
+                <option value="8">2007</option>
+                <option value="9">2008</option>
+                <option value="10">2009</option>
+                <option value="11">2010</option>
+                <option value="12">2011</option>
+                <option value="13">2012</option>
+                <option value="14">2013</option>
+                <option value="15">2014</option>
+                <option value="16">2015</option>
+                <option value="17">2016</option>
+                <option value="18">2017</option>
+                <option value="19">2018</option>
+            </select>
+            <br>
+            <label for="institución">Institución</label>
+            <br>
+            <input type="text" name="institucion" id="institucion" placeholder="Ej: Universidad de Colombia" required>
+            <br>
+            <label for="lugar">Lugar</label>
+            <br>
+            <input type="text" name="lugar" id="lugar" placeholder="Ej: Bogotá" required>
+            <br>
+            <br>
+            <input type="submit" id="agregar" name="agregar"value="Agregar">
+            <br>
+        </fieldset>
+    </form>
+
+    <footer>
+        <p><strong>Informacion de contacto</strong><p>
+        <p>E-mail: andrea.fonseca1417@gmail.com
+        <br/>
+        Tel: +57 3134384790
+        <br/>
+        Dir: Cr 114 # 82-54</p> 
+    </footer>
+</body>
+</html>

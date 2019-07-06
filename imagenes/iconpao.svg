@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <polygon cx="40.5" cy="55.5" edge="29.219476" fill="#7f00ff" id="svg_1" orient="x" points="69.08008243805234,45.49999948124929 51.733794786510046,68.6922939409356 23.666906968050352,59.83362780099975 23.666906968050352,31.166373856856865 51.733794786510046,22.30770502156298 69.08008243805234,45.49999948124929 " shape="regularPoly" sides="5" stroke="#000000" stroke-width="5" strokeWidth="5" strokecolor="#000000" transform="rotate(116.681 46.3735 45.5)"/>
+  <polygon cx="178.5" cy="83.5" edge="0" fill="#7f00ff" id="svg_2" orient="x" shape="regularPoly" sides="5" strokeWidth="5" strokecolor="#000000"/>
+  <text fill="#000000" font-family="serif" font-size="24" id="svg_6" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="100.5" xml:space="preserve" y="54.5">PAO</text>
+  <polygon cx="174.5" cy="81.5" fill="#ffff00" id="svg_8" orient="point" point="5" r="0" r2="0" shape="star" strokeWidth="5" strokecolor="none"/>
+  <polygon cx="66.5" cy="78.5" fill="#ffff00" id="svg_9" orient="point" point="5" points="47.5,22.09960174560547 52.76664733886719,37.251075744628906 68.80404663085938,37.57789611816406 56.02161407470703,47.26884460449219 60.6666259765625,62.62229919433594 47.5,53.46015930175781 34.333377838134766,62.62229919433594 38.9783821105957,47.26884460449219 26.19595718383789,37.57789611816406 42.23335266113281,37.251075744628906 47.5,22.09960174560547 52.76664733886719,37.251075744628906 " r="22.400397" r2="8.960159" shape="star" stroke-width="5" strokeWidth="5" strokecolor="none" transform="rotate(-6.65384 47.5 42.361)"/>
+ </g>
+</svg>
